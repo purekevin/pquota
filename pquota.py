@@ -135,7 +135,6 @@ else:
 
 try:
 	dict=[]
-	filesystem="da-datastore"
 
 	arrays = config.sections()
 
